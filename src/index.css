@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background-color: #9AD0EC;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#text-input {
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 10px;
+    width: 70%;
+    height: 70%;
+}
+
+h1 { font-size: 1.5rem; padding: 10px; }
+
+#find-button {
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 10px;
+}
